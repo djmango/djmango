@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Sulaiman - @djmango
-- 👀 I’m currently building [Swiftink.io](https://swiftink.io), building a **speech-to-text** service, utilizing the **cutting-edge** of artificial intelligence research
+- 👀 I’m currently building [Grav.ai](https://grav.ai), on the **cutting-edge** of artificial intelligence research
 - 🌱 I’m currently learning **aerospace engineering** & **business development**
-- 💞️ I’m looking to collaborate on **open-source** projects & high **value-add** products
+- 💞️ I’m looking to collaborate on long-lifecycle **open-source** AI projects
 - 📫 How to reach me
-  - Email [sulaiman@swiftink.io](mailto:sulaiman@gambitengine.com?subject=[GitHub])
+  - Email [sulaiman@grav.ai](mailto:sulaiman@grav.ai?subject=[Yo])
   - LinkedIn [@skghori](https://www.linkedin.com/in/skghori)
   - Twitter [@sulaimanghori](https://twitter.com/sulaimanghori)
 
