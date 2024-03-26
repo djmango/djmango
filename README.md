@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Sulaiman - @djmango
-- 👀 I’m currently building [Grav.ai](https://grav.ai), on the **cutting-edge** of artificial intelligence research
+- 👀 I’m currently building [Invisibility.so](https://invisibility.so), on the **cutting-edge** of artificial intelligence and interface design
 - 🌱 I’m currently learning **aerospace engineering** & **business development**
 - 💞️ I’m looking to collaborate on long-lifecycle **open-source** AI projects
 - 📫 How to reach me
-  - Email [sulaiman@grav.ai](mailto:sulaiman@grav.ai?subject=[Yo])
+  - Email [sulaiman@invisibility.so](mailto:sulaiman@invisibility.so?subject=[Yo])
   - LinkedIn [@skghori](https://www.linkedin.com/in/skghori)
   - Twitter [@sulaimanghori](https://twitter.com/sulaimanghori)
 
